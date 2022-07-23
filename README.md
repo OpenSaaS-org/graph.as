@@ -1,5 +1,5 @@
 # graph.as
 Build and Edit Graphs Dynamically
 
-
-[https://graph.as/set/node?prop=value](https://graph.as/set/node?prop=value)
+You can set a value in a :
+https://graph.as/set/User.123?prop=value
